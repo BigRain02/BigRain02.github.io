@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
@@ -29,3 +30,6 @@ Fork the ``master`` branch and follow the [Jekyll Installation Documentation](ht
 ## License
 
 GNU General Public License v3.0
+=======
+# BigRain02.github.io
+>>>>>>> 8b6f256f9e54558469897efe206d4eddc4af90a3
